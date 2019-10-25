@@ -170,4 +170,6 @@ Pom
 - https://www.thecuriousdev.org/spring-boot-chaos-monkey/
 - https://piotrminkowski.wordpress.com/2017/06/26/monitoring-microservices-with-spring-boot-admin/
 - https://dzone.com/articles/chaos-monkey-for-spring-boot-microservices
+- https://dhaval-shah.com/chaos-engineering-demonstration-with-working-example/
+- https://jaxenter.com/chaos-monkey-spring-boot-143435.html
 
